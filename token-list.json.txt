@@ -1,0 +1,25 @@
+{
+  "name": "DEFI",
+  "logoURI": "https://s4.aconvert.com/convert/p3r68-cdx67/arrqo-fzsm8.png",
+  "keywords": [
+      "defi",
+      "DEFI",
+      "yield"
+    ],
+    "timestamp": "2020-09-01T01:40:34.305Z",
+    "tokens": [
+      {
+      "chainId": 1,
+      "address": "0x7f574D137D6b92AC0f35dB16568FF913B05d31cF",
+      "name": "DEFI",
+      "symbol": "DEFI",
+      "decimals": 18,
+      "logoURI": "https://s4.aconvert.com/convert/p3r68-cdx67/arrqo-fzsm8.png"
+      }
+    ],
+    "version": {
+      "major": 0,
+      "minor": 0,
+      "patch": 0
+    }
+}
